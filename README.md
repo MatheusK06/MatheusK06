@@ -1,8 +1,8 @@
 - <h3>
       Olá estou interresado no meu primeiro emprego, procuro ajudar a emprezar a crescer.  </h0>
 -👋 Hi, I’m @MatheusK06
-- 👀 I’m interested in ...Primeiro emprego
-- 🌱 I’m currently learning ...ensino médio
+- 👀 I’m interested in ...Primeiro emprego,salário de no mínimo 3000
+- 🌱 I’m currently learning ...ensino médio,foco em eucação fisíca
 - 💞️ I’m looking to collaborate on ...Ajudar a empreza prestando serviço
 - 📫 How to reach me ...Email
 
