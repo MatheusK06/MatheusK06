@@ -1,10 +1,10 @@
-- <h8>
-      Olá estou interresado no meu primeiro emprego, procuro ajudar a emprezar a crescer.  </h0>
--👋 Hi, I’m @MatheusK06
-- 👀 I’m interested in ...Primeiro emprego,salário de no mínimo todo o dinheiro do mundo
-- 🌱 I’m currently learning ...ensino médio,foco em eucação fisíca
-- 💞️ I’m looking to collaborate on ...Ajudar a empreza prestando serviço
-- 📫 How to reach me ...Email
+- <h2>
+      Olá estou interresado no meu primeiro emprego, procuro ajudar a emprezar a crescer.
+- <h4>Hi, I’m @MatheusK06
+- <h4>I’m interested in ...Primeiro emprego
+- <h4>I’m currently learning ...ensino médio,foco em eucação fisíca
+- <h4>I’m looking to collaborate on ...Ajudar a empreza prestando serviço
+- <h4>How to reach me ...Email
 
 <!---
 MatheusK06/MatheusK06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
